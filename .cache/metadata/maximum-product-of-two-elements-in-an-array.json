@@ -1,0 +1,58 @@
+{
+  "problem_number": 1464,
+  "title": "Maximum Product of Two Elements in an Array",
+  "slug": "maximum-product-of-two-elements-in-an-array",
+  "difficulty": "Easy",
+  "acceptance_rate": "84.4%",
+  "likes": 2717,
+  "dislikes": 241,
+  "topics": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "companies": [],
+  "hints": [
+    "Use brute force: two loops to select i and j, then select the maximum value of (nums[i]-1)*(nums[j]-1)."
+  ],
+  "similar_questions": [],
+  "raw": {
+    "questionId": "1574",
+    "questionFrontendId": "1464",
+    "title": "Maximum Product of Two Elements in an Array",
+    "titleSlug": "maximum-product-of-two-elements-in-an-array",
+    "difficulty": "Easy",
+    "likes": 2717,
+    "dislikes": 241,
+    "acRate": 84.36632306672692,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "companyTagStats": null,
+    "hints": [
+      "Use brute force: two loops to select i and j, then select the maximum value of (nums[i]-1)*(nums[j]-1)."
+    ],
+    "similarQuestions": "[]"
+  },
+  "cached_at": "2026-07-27T09:29:26.249257+00:00"
+}
