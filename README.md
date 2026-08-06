@@ -60,3 +60,15 @@ Oldest Problem: 1464. Maximum Product of Two Elements in an Array
 | # | Problem | Difficulty | Language | Folder |
 | ---: | --- | --- | --- | --- |
 | 1464 | Maximum Product of Two Elements in an Array | 🟢 Easy | C++ | [1464-Maximum Product of Two Elements in an Array](Easy/1464-Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+<!---LeetCode Topics End-->
