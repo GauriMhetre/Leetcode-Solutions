@@ -88,4 +88,16 @@ Oldest Problem: 1464. Maximum Product of Two Elements in an Array
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
