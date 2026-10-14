@@ -75,6 +75,7 @@ Oldest Problem: 1464. Maximum Product of Two Elements in an Array
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -96,8 +97,10 @@ Oldest Problem: 1464. Maximum Product of Two Elements in an Array
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
