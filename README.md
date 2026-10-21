@@ -92,6 +92,7 @@ Oldest Problem: 1464. Maximum Product of Two Elements in an Array
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -103,4 +104,8 @@ Oldest Problem: 1464. Maximum Product of Two Elements in an Array
 | ------- |
 | [0217-contains-duplicate](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GauriMhetre/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
